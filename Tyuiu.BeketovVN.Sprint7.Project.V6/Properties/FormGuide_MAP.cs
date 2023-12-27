@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tyuiu.BeketovVN.Sprint7.Project.V6
+namespace Tyuiu.ModenovaAP.Sprint7.Project.V6
 {
-    public partial class Form1 : Form
+    public partial class FormGuide_MAP : Form
     {
-        public Form1()
+        public FormGuide_MAP()
         {
             InitializeComponent();
         }

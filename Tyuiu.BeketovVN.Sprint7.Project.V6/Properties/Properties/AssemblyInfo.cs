@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tyuiu.ModenovaAP.Sprint7.Project.V6.Lib")]
+[assembly: AssemblyTitle("Tyuiu.ModenovaAP.Sprint7.Project.V6")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.ModenovaAP.Sprint7.Project.V6.Lib")]
+[assembly: AssemblyProduct("Tyuiu.ModenovaAP.Sprint7.Project.V6")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("df9aeeea-ea4d-4ca5-a6bb-c15c3005b377")]
+[assembly: Guid("3bd386f8-181a-43bf-8179-c6c6eccd3170")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tyuiu.BeketovVN.Sprint7.Project.V6
+namespace Tyuiu.ModenovaAP.Sprint7.Project.V6
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Tyuiu.BeketovVN.Sprint7.Project.V6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMainPatients_BVN());
+            Application.Run(new FormMainPatients_MAP());
         }
     }
 }
